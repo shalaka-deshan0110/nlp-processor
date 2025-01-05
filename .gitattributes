@@ -1,0 +1,11 @@
+# Set the default behavior for text files
+* text=auto
+
+# Specify files that should be treated as binary
+*.jpg binary
+*.png binary
+*.pdf binary
+
+# Specify files that should have LF line endings
+*.txt eol=lf
+*.md eol=lf

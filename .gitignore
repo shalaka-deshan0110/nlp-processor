@@ -1,0 +1,39 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# VS Code files
+/.vscode
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven files
+target/
+
+# Gradle files
+build/
+.gradle/
+
+# macOS specific files
+.DS_Store
+
+# macOS folder attributes
+.AppleDouble
+.LSOverride
+
+# macOS thumbnail
+._*
+
+# macOS files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# macOS files that might appear on network or other volumes
+.fseventsd
+.TemporaryItems
+.apdisk
